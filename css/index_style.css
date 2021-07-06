@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    display: block;
+    width: 100%;
+    padding: 20px;
+}
