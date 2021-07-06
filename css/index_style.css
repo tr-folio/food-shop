@@ -58,8 +58,19 @@ h1 {
     margin: 0 auto;
 }
 
+#my-recipies {
+    display: block;
+    width: 100%;
+}
+
 h2 {
     font-size: 32px;
+}
+
+.centered-text {
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 
 .tenpx-vspace {
