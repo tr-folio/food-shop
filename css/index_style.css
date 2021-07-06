@@ -40,6 +40,10 @@ h1 {
     border-radius: 25px;
 }
 
+#healthy-food {
+    width: 95%;
+}
+
 .tenpx-vspace {
     display: block;
     width: 100%;
