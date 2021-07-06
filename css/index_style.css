@@ -46,7 +46,7 @@ h1 {
 
 #aboutme-banner {
     display: flex;
-    padding-top: 100px;
+    padding-top: 60px;
     background-image: url("../img/aboume-bg.jpg");
     background-repeat: none;
     background-size: cover;
